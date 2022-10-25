@@ -1,3 +1,4 @@
+package task1;
 public class Eighth {
     public static void main(String[] args) {
         System.out.println(nextEdge(args[0],args[1]));

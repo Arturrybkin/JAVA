@@ -1,3 +1,4 @@
+package task1;
 public class Fifth {
     public static void main(String[] args) {
         System.out.println(operation(args[0],args[1],args[2]));

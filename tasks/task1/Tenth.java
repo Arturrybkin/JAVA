@@ -1,3 +1,4 @@
+package task1;
 import java.util.Scanner;
 public class Tenth {
     public static void main(String[] args) {
